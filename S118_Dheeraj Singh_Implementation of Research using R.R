@@ -1,4 +1,3 @@
-# Install if not already installed
 install.packages("ggplot2")
 install.packages("dplyr")
 
